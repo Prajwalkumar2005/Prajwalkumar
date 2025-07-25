@@ -1,10 +1,6 @@
 ## 👋 Hey there, I'm Prajwalkumar Methe
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-💼 Junior Frontend Developer @HITFITINDIA  
-🚀 Founder @Courses_Wallaa — Empowering students with affordable tech learning  
-🎯 Future IIM Aspirant | 🇮🇳 Based in India
-
 ---
 
 ### 🛠️ Tech Stack & Skills
